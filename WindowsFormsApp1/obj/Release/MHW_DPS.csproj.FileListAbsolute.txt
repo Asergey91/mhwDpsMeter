@@ -1,0 +1,26 @@
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.Properties.Resources.resources
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.csproj.GenerateResource.Cache
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.csproj.CoreCompileInputs.cache
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MHW_DPS.exe.manifest
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MHW_DPS.application
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MHW_DPS.exe
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MHW_DPS.pdb
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.exe.manifest
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.application
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.exe
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.pdb
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MHW_DPS.csprojResolveAssemblyReference.cache
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\bin\Release\MHW_DPS.exe.manifest
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\bin\Release\MHW_DPS.application
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\bin\Release\MHW_DPS.exe
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\bin\Release\MHW_DPS.pdb
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.csprojResolveAssemblyReference.cache
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.Properties.Resources.resources
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.csproj.GenerateResource.Cache
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.csproj.CoreCompileInputs.cache
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.exe.manifest
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.application
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.exe
+C:\Users\aserg\Dropbox\My Work\Coding\mhw dps meter\WindowsFormsApp1\obj\Release\MHW_DPS.pdb

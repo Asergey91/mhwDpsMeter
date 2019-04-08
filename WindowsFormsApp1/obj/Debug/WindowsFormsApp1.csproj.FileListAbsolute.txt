@@ -1,0 +1,13 @@
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MHW_DPS.exe.manifest
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MHW_DPS.application
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MHW_DPS.exe
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MHW_DPS.pdb
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MHW_DPS.Properties.Resources.resources
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MHW_DPS.exe.manifest
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MHW_DPS.application
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MHW_DPS.exe
+C:\Users\aserg\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MHW_DPS.pdb
